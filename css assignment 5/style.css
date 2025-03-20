@@ -1,0 +1,210 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+/* first black navbar */
+.nav-1{
+    background-color: black;
+}
+
+.nav-1-text{
+    color: white;
+}
+
+.nav-1-link{
+    color: white;
+}
+
+.nav-1-btn{
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+
+/* second white navbar */
+
+.nav-heading{
+    left: 70px;
+    position: relative;
+    top: 10px;
+}
+
+.nav-link-1{
+    text-decoration: underline !important;
+    position: relative;
+    left: 140px;
+    top: 10px;
+}
+
+.nav-link-2:hover{
+    text-decoration: underline;
+}
+
+.nav-link-2{
+    position: relative;
+    left: 130px;
+    top: 10px;
+}
+
+.nav-input{
+    position: relative;
+    left: 350px;
+    width: 270px !important;
+    top: 8px;
+    background-color: rgb(243, 243, 243) !important;
+    border: none !important;
+}
+
+.nav-icon{
+    margin-left: 410px;
+    margin-top: 20px;
+    width: 20px;
+    height: 20px;
+    z-index: 1;
+}
+
+.nav-icon-2{
+    margin-left: 20px;
+    margin-top: 18px;
+    width: 25px;
+    height: 25px;
+    z-index: 1;
+}
+
+/* hero section start */
+
+.li{
+    list-style-type: none;
+    top: 5px;
+    position: relative;
+    line-height: 40px;
+}
+
+.li:hover{
+    cursor: pointer;
+}
+
+.li-icon-1{
+    position: relative;
+    left: 1px;
+    height: 10px;
+}
+
+.li-icon-2{
+    height: 10px;
+}
+
+.line-1{
+    margin-left: 260px;
+    margin-top: -435px;
+    height: 380px;
+}
+
+.herosection-img{
+    margin-left: 290px;
+    margin-top: -440px;
+    width: 995px;
+    height: 330px;
+}
+
+/* flash sales section start */
+
+.flash-sale-section{
+    background-color: #e04848;
+    width: 20px;
+    height: 33px;
+    border-radius: 3px;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+
+.flash-text{
+    color: #e04848;
+    margin-left: 30px;
+    position: relative;
+    top: 5px;
+}
+
+.flash-heading{
+    margin-left: 78px;
+    margin-top: 20px;
+}
+
+.time-incounting{
+    display: inline-block;
+    position: relative;
+    top: -42px;
+    left: 295px;
+    margin: 2px;
+}
+
+.ratio-span{
+    color: #e04848;
+    margin: 18px;
+    position: relative;
+}
+
+.timings{
+    display: inline-block;
+    font-size: 12px;
+    margin-left: 40px;
+    position: relative;
+    top: -95px;
+    left: 263px;
+}
+
+.arrow-1{
+   position: relative;
+   left: 1175px;
+   top: -130px;
+   cursor: pointer;
+}
+
+.arrow-2{
+    position: relative;
+    left: 1185px;
+    top: -130px;
+    cursor: pointer;
+}
+
+.flash-images-1{
+    margin-left: 80px;
+    margin-top: -100px;
+    cursor: pointer;
+}
+
+.flash-images-2{
+    margin-top: -100px;
+    margin-left: 35px;
+    cursor: pointer;
+}
+
+.flash-images-3{
+    margin-top: -100px;
+    margin-left: 35px;
+    cursor: pointer;
+}
+
+.flash-images-4{
+    margin-top: -100px;
+    margin-left: 35px;
+    cursor: pointer;
+}
+
+.flash-button{
+   margin-top: 90px;
+   margin-left: 600px;
+   background-color: #e04848;
+   color: white;
+   border: #e04848;
+   border-radius: 3px;
+   height: 45px;
+   width: 180px;
+}
+
+.linebreak-1{
+    width: 1200px;
+    margin-top: 50px;
+    margin-left: 80px;
+}
